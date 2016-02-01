@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test:unit": "NODE_ENV=test mocha test/unit"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
